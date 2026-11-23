@@ -26,7 +26,8 @@ Instead of sifting through thousands of individual reviews, this dashboard bring
 
 #### Repository Contents
 
-* British_Airways_Reviews.twbx — Packaged Tableau workbook
-* dashboard-preview.png — Dashboard preview image
+*  [Packaged Tableau Workbook](https://github.com/johnson203-boom/tableau-projects/blob/main/British-airways-reviews/British%20air%20ways%20flight%20metric.twbx)
+*  [Dashboard preview image](<img width="1496" height="803" alt="British_Airways_Metrics" src="https://github.com/user-attachments/assets/b7b4f2bf-0851-4b50-868a-9b212e3168a4" />
+)
 
-*( [View and interact with the live dashboard on Tableau Public](https://public.tableau.com/app/profile/ayomide.johnson7650/viz/Britishairwaysflightmetric/Dashboard1?publish=yes))*
+* [View and interact with the live dashboard on Tableau Public](https://public.tableau.com/app/profile/ayomide.johnson7650/viz/Britishairwaysflightmetric/Dashboard1?publish=yes)
