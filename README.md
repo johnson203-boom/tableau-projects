@@ -14,4 +14,4 @@ Each project in this repository transforms raw data into intuitive visual storie
 
 All dashboards—complete with live Tableau Public links, previews, and key insights—are organized in the project directory: 
 
-➡️ **[Explore the Project Directory](./PROJECTS.md)**
+ **Explore each Project**
