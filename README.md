@@ -1,4 +1,4 @@
-#### Tableau Data Visualizations 📈
+#### Tableau Data Visualizations 
 
 A collection of interactive dashboards, exploratory analyses, and business intelligence reports built in Tableau. 
 
